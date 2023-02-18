@@ -1,0 +1,81 @@
+.sign_up{
+ width:100%;
+ background-color: antiquewhite;
+ padding:70px 0px ;
+
+  .sign_up_box{
+      width:870px;
+      height:803px;
+      background-color: aliceblue;
+      margin:auto;
+
+   .title_area{ 
+      width:870px;
+      height:200px;
+      background-color: aliceblue;
+      padding-top: 60px;
+
+      .title{
+        width:670px;
+        height:80px;
+        background-color: white;
+        margin:auto;
+
+        font-size:36px;
+        line-height:80px;
+        text-align:center;
+      }
+    } 
+    .field_area{
+        width:600px;
+        height:320px;
+        background-color:aliceblue;
+        margin: auto;
+
+     .field{
+            margin-bottom:40px;
+
+        .field_input{
+            width:600px;
+            height:63px;
+            background-color: lemonchiffon;
+            border:0px none;
+
+            font-size:24px;
+            line-height:63px;
+        }
+     }
+    }
+
+    .submit{
+        width:100%;
+        height:190px;
+        background-color:aliceblue;
+        padding-top:20px;
+
+     .actions{
+        background-color:lemonchiffon;
+        width:330px;
+        height:50px;
+        margin: auto;
+        text-align:center;
+
+        .submit_button{
+            height:50px;
+            background-color: lemonchiffon;
+            font-size:20px;
+            line-height:50px;
+            border:0px none;
+            margin-top:80px;
+        }
+        }
+    }
+  }
+}
+
+.share_text{
+    font-size:15px;
+    color:aliceblue;
+    text-decoration: none;
+    text-align: center;
+}
